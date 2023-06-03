@@ -15,7 +15,5 @@ int x,y,z,Sec,Min,Hour;
 cout<<"The Hour is: "<<Hour;
 cout<<"The Min is: "<<Min;
 cout<<"The Sec is: "<<Sec<<endl;
-
-
-    
+  return 0;
 }
