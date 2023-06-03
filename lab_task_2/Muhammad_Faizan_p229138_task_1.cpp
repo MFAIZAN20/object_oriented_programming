@@ -25,7 +25,8 @@ void check_password(string pass){
         }
         
     }
-    else{
+    else
+    {
         cout<<"You Entered The Wrong Password";
     }
     
