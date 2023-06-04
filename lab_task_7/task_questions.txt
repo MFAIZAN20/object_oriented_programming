@@ -1,0 +1,9 @@
+/* Task Requirement */
+Scenario: You are developing a contact management software that allows users to keep track of their contacts. 
+Each contact in the software consists of a person's name, phone number, email address, and date of birth. 
+You want to implement this system using object-oriented programming principles, with a composition relationship.
+Here, the class Contact is composed of n numbers of contacts(array of contacts).
+And the total count of contacts(size of array), each contact is composed of the object of date of birth class plus some other data members like name, phone_no, and email.
+Also design a method in the ContactBook class to print the names of all contacts in the book who have a birthday in a specific month.
+Create a class diagram in Draw.io for the whole scenario. You must submit the cpp file and also the png file of the class diagram.
+Note: Your program must fulfill the criteria of composition.
